@@ -731,7 +731,7 @@ ul.social_icons li  a i{
 	position: relative;	
 	margin-top:30px;
 	margin-bottom:30px;
-	background: #272727;
+	background: white;
 	text-align: center;
 	cursor: pointer;
 }
@@ -784,6 +784,7 @@ figure.effect-marley p {
 figure.effect-marley h4 {
 	top: 30px;
 	color:#fff;
+  text-shadow: 1.5px 1.5px black;
 	-webkit-transition: -webkit-transform 0.35s;
 	transition: transform 0.35s;
 	-webkit-transform: translate3d(0,20px,0);
