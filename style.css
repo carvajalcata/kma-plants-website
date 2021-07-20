@@ -300,7 +300,7 @@ a:hover {
 }
 
 .gamp-btn a {
-  float: left;
+  float:left;
   font-size: 12px;
   text-transform: uppercase;
   letter-spacing: 3px;
