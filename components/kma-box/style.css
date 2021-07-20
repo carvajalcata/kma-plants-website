@@ -255,6 +255,10 @@ a:hover {
   transition:  color 300ms, background-color 300ms;
 }
 
+.img-responsive{
+  max-width:100%;
+}
+
 .form-inline {
 	margin-top:50px;	
 }
