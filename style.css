@@ -1085,8 +1085,6 @@ ul.social-network li a {
 }
 
 .img_info_kmaplants {
-  width: 1000px;
-  margin-left: 95px;
   margin-top: 50px;
   margin-bottom: 80px;
 }
@@ -1142,12 +1140,14 @@ ul.social-network li a {
   width: 200px;
 }
 
-.icons-backgroud{
+.icons-backgroud {
   background-color:#FFFFFF;
   margin: none;
-  width: 1280px;
-  padding: 30px 150px;
+  width: 100%;
+  padding: 30px 0px;
   display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .img-email {
@@ -1175,4 +1175,12 @@ ul.social-network li a {
   margin: 50px 0px;
 }
 
+.img_info_container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
 
+.media-object {
+  width: 145px;
+}
