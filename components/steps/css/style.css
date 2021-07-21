@@ -1147,7 +1147,31 @@ ul.social-network li a {
   background-color:#FFFFFF;
   margin: none;
   width: 1280px;
-  padding: 30px 0px;
-
+  padding: 30px 150px;
+  display: flex;
 }
 
+.img-email {
+  width: 80px;
+  margin: 50px 0px;
+}
+
+.img-face {
+  width: 80px;
+  margin: 50px 30px;
+}
+
+.img-tiktok {
+  width: 80px;
+  margin: 50px 0px;
+}
+
+.img-insta {
+  width: 80px;
+  margin: 50px 30px;
+}
+
+.img-whatsapp {
+  width: 80px;
+  margin: 50px 0px;
+}
