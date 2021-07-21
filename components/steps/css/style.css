@@ -936,8 +936,8 @@ textarea#message{
   Footer
 ============================ */
 footer {
-	padding:50px;
-	background:#65AAF0;
+	padding:10px 0px;
+	background:#0F2E1C;
 }
 
 footer p {
@@ -1117,17 +1117,37 @@ ul.social-network li a {
   text-transform:uppercase;
 	font-weight:550;
 	font-size:24px;
-	margin-bottom:30px;
   font-family: Poppins-SemiBold;
   text-align: center;
-  margin-bottom: 65px;
+  margin-bottom: 30px;
   margin-top: none;
+  color: #FFFFFF;
+}
+
+.h3_copy {
+	font-weight:180px;
+  font-family: Roboto-Light;
+  text-align: center;
+  margin: none;
+  color: #FFFFFF;
+}
+
+.margin-copy {
+  padding: 0 50px;
+  margin-top: 10px;
+  margin-bottom: none;
+  text-align: center;
 }
 
 .cactus {
   width: 200px;
 }
 
-.message {
-  
+.icons-backgroud{
+  background-color:#FFFFFF;
+  margin: none;
+  width: 1280px;
+  padding: 30px 0px;
+
 }
+
