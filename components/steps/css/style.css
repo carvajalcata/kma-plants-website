@@ -3,6 +3,15 @@
 @import url('font-awesome.css');
 /* ==== overwrite bootstrap standard ==== */
 @import url('animate.css');
+@font-face {
+  font-family: Poppins-SemiBold;
+  src: url(/fonts/Poppins-SemiBold.ttf);
+}
+
+@font-face {
+  font-family: Roboto-Light;
+  src: url(/fonts/Roboto-Light.ttf);
+}
 
 
 
@@ -725,6 +734,7 @@ ul.social_icons li  a i{
 	font-weight:550;
 	font-size:24px;
 	margin-bottom:30px;
+  font-family: Poppins-SemiBold;
 }
 
 .gallery figure {
@@ -1080,5 +1090,41 @@ ul.social-network li a {
   width: 1000px;
   margin-left: 95px;
   margin-top: 50px;
-  
+  margin-bottom: 80px;
+}
+
+.h2_entrega {
+  text-transform:uppercase;
+	font-weight:550;
+	font-size:24px;
+	margin-bottom:30px;
+  font-family: Poppins-SemiBold;
+  text-align: center;
+  margin-bottom: 65px;
+}
+
+.h2_pago {
+  text-transform:uppercase;
+	font-weight:550;
+	font-size:24px;
+	margin-bottom:30px;
+  font-family: Poppins-SemiBold;
+  text-align: center;
+  margin-bottom: 65px;
+  margin-top: 90px;
+}
+
+.h2_contactenos {
+  text-transform:uppercase;
+	font-weight:550;
+	font-size:24px;
+	margin-bottom:30px;
+  font-family: Poppins-SemiBold;
+  text-align: center;
+  margin-bottom: 65px;
+  margin-top: none;
+}
+
+.cactus {
+  width: 200px;
 }
