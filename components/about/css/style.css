@@ -1075,3 +1075,16 @@ ul.social-network li a {
 	font-size:12px;
 	text-shadow:none;
 } 
+
+.h2-historia {
+  margin-bottom: 50px;
+}
+
+.h2-quienes-forman-parte {
+  margin: 50px
+}
+
+.margin-cards {
+  margin-top: 150px;
+  margin-bottom: 180px;
+}
