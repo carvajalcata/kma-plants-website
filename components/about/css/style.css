@@ -5,12 +5,12 @@
 @import url('animate.css');
 @font-face {
   font-family: Poppins-SemiBold;
-  src: url(/fonts/Poppins-SemiBold.ttf);
+  src: url(../../fonts/Poppins-SemiBold.ttf);
 }
 
 @font-face {
   font-family: Roboto-Light;
-  src: url(/fonts/Roboto-Light.ttf);
+  src: url(../../fonts/Roboto-Light.ttf);
 }
 
 
