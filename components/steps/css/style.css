@@ -1176,8 +1176,19 @@ ul.social-network li a {
   margin: 50px 0px;
 }
 
-.img_info_container {
+.img_info_container, .img-info-size {
   display: flex;
   justify-content: center;
   width: 100%;
 }
+
+.img_info_container {
+  width: 70%;
+}
+
+
+.img-info-size {
+  width: 100%;
+  justify-items: center;
+}
+
