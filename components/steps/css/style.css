@@ -1113,7 +1113,6 @@ ul.social-network li a {
   text-transform:uppercase;
 	font-weight:550;
 	font-size:24px;
-  font-family: Poppins-SemiBold;
   text-align: center;
   margin-bottom: 30px;
   margin-top: none;
@@ -1122,7 +1121,6 @@ ul.social-network li a {
 
 .h3_copy {
 	font-weight:180px;
-  font-family: Roboto-Light;
   text-align: center;
   margin: none;
   color: #FFFFFF;
