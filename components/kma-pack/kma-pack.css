@@ -275,7 +275,8 @@ a:hover {
 ============================ */
 
 .about {
-	padding:80px 0 80px 0;
+  padding-top: 80px;
+  padding-bottom: 0px;
 	background:#fff;
 }
 
@@ -856,7 +857,7 @@ figure.effect-marley:hover p {
 }
 .action .left-text em {
   font-size: 16px;
-  color: #aaa;
+  color:black;
   font-weight: 300;
   font-style: normal;
 }
