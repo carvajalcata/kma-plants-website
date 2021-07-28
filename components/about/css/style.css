@@ -283,9 +283,10 @@ a:hover {
 }
 
 .about .text-center p {
-	margin-top:20px;
-	margin-bottom:80px;
+	margin-top:40px;
+	margin-bottom:30px;
 	color:#aaa;
+  text-align: justify;
 } 
 
 .btn-gamp a {
@@ -1183,4 +1184,16 @@ ul.social-network li a {
 
 .media-object {
   width: 145px;
+}
+
+.historia-texto {
+  font-size: 18px;
+}
+
+.margin-text-historia {
+  margin: 0px 0px;
+}
+
+.row {
+  margin-bottom: 70px;
 }
