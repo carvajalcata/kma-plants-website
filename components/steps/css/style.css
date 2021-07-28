@@ -740,7 +740,6 @@ ul.social_icons li  a i{
 	position: relative;	
 	margin-top:30px;
 	margin-bottom:30px;
-	background: #72968A;
 	text-align: center;
 	cursor: pointer;
 }
@@ -748,7 +747,6 @@ ul.social_icons li  a i{
 .gallery figure img {
 	position: relative;
 	display: block;
-	opacity: 0.8;
 }
 
 .gallery figure figcaption {
